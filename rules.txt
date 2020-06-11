@@ -1,0 +1,15 @@
+Each spin of the wheel will ygive you 2-6 points
+
+If you land on a 1 the game will end
+
+If you have a score greater than 99, the game will end
+
+If you land on a 2 you will get a bet
+
+When betting, you can either bet for 6 points in a safe bet or 12 points in a risky bet
+
+To win a safe bet, the wheel must land on a red number
+
+To win a risky bet, the wheel must land on a black number
+
+Keep in mind, wether you're betting or not, a 1 will result in failure
